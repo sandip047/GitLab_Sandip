@@ -1,0 +1,1 @@
+the git stagging area is useful because it checks if the file was updated or not
